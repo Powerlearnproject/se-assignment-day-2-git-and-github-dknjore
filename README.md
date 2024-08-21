@@ -75,6 +75,10 @@ Making regular commits with clear messages is a best practice in version control
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
+Branching in Git allows you to diverge from the main line of development and work on separate features or fixes independently. Each branch is essentially a separate version of your project where you can make changes without affecting the main codebase. Branching is crucial in collaborative development as it enables multiple team members to work on different tasks or features simultaneously without interfering with each other's work.
+
+To start working on a new feature or fix, create a new branch using git branch 'branch name'. You can also create and switch to a branch in one step with git checkout -b 'branch name'. Once the pull request is approved, merge the branch into the main branch. This can be done directly on GitHub or using git merge 'branch name' locally.
+
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
