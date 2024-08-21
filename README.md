@@ -24,23 +24,29 @@ By offering clear and concise information, the README file enhances collaboratio
 
 Public Repository
 A public repository is open for anyone to view, fork, and contribute to.
+
 Advantages:
+
 - Open access for anyone to view and contribute.
 - Increases project visibility and attracts more contributors.
 - Encourages community involvement and feedback.
 
 Disadvantages:
+
 - No privacy, exposing all work publicly.
 - More challenging to manage with numerous contributors.
 
 Private Repository
 A private repository, on the other hand, restricts access to only those invited.
+
 Advantages:
+
 - Controlled access, ensuring confidentiality.
 - Focused collaboration with a select group.
 - Secure environment for sensitive or unfinished projects.
 
 Disadvantages:
+
 - Limits external contributions.
 - May incur costs for advanced features or larger teams.
 
